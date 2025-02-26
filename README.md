@@ -7,3 +7,4 @@ Um pequeno projeto para estudar o next.js 14 utiliazando o curso [free do next.j
 - Comenta que existem outras opções de estilização como Sass, styled-jsx, styled-components e emotion.
 - Adicionar fonts utilizando o next/fonts e Adicionar imagens com next/images
 - Entendimento sobre rotas, pages e layouts.
+- Entedimento do Link (next/link) e do usePathname() (next/navigation)
